@@ -1,3 +1,4 @@
+config.h
 dmenu
 dmenu.c.orig
 dmenu.o
